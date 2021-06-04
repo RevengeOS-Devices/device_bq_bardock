@@ -7,8 +7,7 @@
     {
         "remote":       "devices",
         "repository":   "kernel_bq_msm8953",
-        "target_path":  "kernel/bq/msm8953",
-        "revision":     "r11.0"
+        "target_path":  "kernel/bq/msm8953"
     },
     {
         "remote":       "devices",
